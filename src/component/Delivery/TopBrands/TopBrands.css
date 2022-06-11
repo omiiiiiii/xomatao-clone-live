@@ -1,0 +1,36 @@
+.Top-Brands{
+    padding-top: 30px;
+}
+.top-brands-cover{
+height: 150px;
+width: 150px;
+border-radius: 10%;
+background-color: var(--primary-bg); 
+align-items: center;
+}
+.top-brand-image{
+    border-radius: inherit;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    align-items: center;
+
+}
+.top-brand-name{
+    /* line-height: 1.2; */
+    color: var(--heading-text);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 10px 0px 0px;
+    /* align-items: center; */
+    word-break: break-word;
+    margin-left: 25px;
+}
+.top-brand-time{
+    line-height: 1.2;
+    font-weight: 500;
+    color: var(--heading-text);;
+    font-size: 14px;
+    margin-left: 40px;
+    padding-top: 15px;
+}

@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/xomatao-clone-live/static/css/main.06554f4c.css",
-    "main.js": "/xomatao-clone-live/static/js/main.bfa784ed.js",
+    "main.js": "/xomatao-clone-live/static/js/main.4b79be0a.js",
     "index.html": "/xomatao-clone-live/index.html",
     "main.06554f4c.css.map": "/xomatao-clone-live/static/css/main.06554f4c.css.map",
-    "main.bfa784ed.js.map": "/xomatao-clone-live/static/js/main.bfa784ed.js.map"
+    "main.4b79be0a.js.map": "/xomatao-clone-live/static/js/main.4b79be0a.js.map"
   },
   "entrypoints": [
     "static/css/main.06554f4c.css",
-    "static/js/main.bfa784ed.js"
+    "static/js/main.4b79be0a.js"
   ]
 }

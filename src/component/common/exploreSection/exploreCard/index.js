@@ -26,8 +26,12 @@ const ExploreCard = ({retourents}) => {
        </div>
        <div className='res-row'>
            <div className='res-name'>{name}</div>
-           {rating && <div className='res-ratting abolute-center'>
+          
+           {rating!=='NEW' && <div className='res-ratting abolute-center'>
                 {rating}<i className="fi fi-rr-star abolute-center"></i>
+               </div>}
+            {rating==='NEW' && <div className='res-ratting abolute-center'>
+                {rating}
                </div>}
        </div>
        <div className='res-row'>
